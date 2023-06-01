@@ -1,6 +1,7 @@
 
 
 # ChatBot
+<img width="1680" alt="Screenshot 2023-06-01 at 8 40 02 AM" src="https://github.com/shaheerzk01/Chatbot_flaskAPI_javascript/assets/103843506/d30f2055-6569-474a-a4f2-38ff3a67c08a">
 
 ## Installation & Setup
 
